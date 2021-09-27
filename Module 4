@@ -1,0 +1,24 @@
+---
+title: "CodesRUs_Module4.R"
+author: "CodesRus"
+date: "9/27/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Ecomorphology is the study that allows people to understand the relationship between the morphology of the organism and its environment. In the Module3 project, we focus on the ecomorphology of anoles, a genus of iguanian reptiles with exceptional diversity. The main purpose of the project is to visualize the difference of allometric relationship between hind limb length and size of Anolis lizard and how hind limb length vs. size relationship covaries with the ecological niche. To analyze our data, we compute standard error and create models based on the measurement of total hind-limb length, perch height, and perch diameter of various ecomorphs.
+
+<center>
+[![Anolis lizard](https://upload.wikimedia.org/wikipedia/commons/a/a6/Carolina_anole_%28Anolis_carolinensis%29_with_red_throat_expanded.jpg)
+
+Image of Anolis lizard
+
+
+## Method
+
+
